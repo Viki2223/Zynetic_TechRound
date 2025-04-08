@@ -1,0 +1,35 @@
+.recentSearchesContainer {
+  margin-top: 1rem;
+}
+
+.title {
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+  color: #2d3748;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.listItem {
+  margin: 0;
+}
+
+.button {
+  background-color: #edf2f7;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.button:hover {
+  background-color: #e2e8f0;
+}
